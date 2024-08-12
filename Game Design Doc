@@ -8,12 +8,29 @@
 
   ---- THE WORLD
 
----Character Names
+--- Character Names
+
+--- Vampires
+
+ -Night and Day
+During the night,  Vampires Act as vampires, but we have the idea that they don't die in the sun, just be incredibly weak.
+
+
+ -Power
+Because of the game we're making i think the standard increased strength and durability makes sense, However what else should they have?
+
+--- Other Undead
+
+--- Technology
+
+--- Magic
+
+--- Society
+
+--- Other
 
 ---Daytime
-  Right now we're thinking you have to pay off a debt to the hospital, which will get you introduced to the daytime game-mechanics.
-  As a vampire in this world you thankfully don't die in the sun however you don't have any powers. as such in the day you don't have access to magic, or regular combat options(?).
-in the day you would have to travel via walking (maybe a little parkour) or vehicles. thankfully other creatures of the night won't be out to get you, but that might not mean you are completely safe
+ 
 
   ----   MENUS   ----
 
@@ -44,11 +61,22 @@ in the day you would have to travel via walking (maybe a little parkour) or vehi
   ----   GAMEPLAY   ----
 
 ---Enemies
-  Types: Ghouls(Simple flesh creatures), Skeletons(skeletons), ???
-  Enemies(detailed description): 
+
+ -Types: Ghouls(Simple flesh creatures), Skeletons(skeletons), ???
+
+
+ -Enemies(detailed description): 
 
 
 --- Controls
+ 
+ -Walking: WASD
+ -Melle: LMB
+ -Magic/guns: RMB
+ -Wallrun:
+ -Slide: SHIFT/CTRL
+ -Grapple: RMB?
+ -
 
 --- Skill
 

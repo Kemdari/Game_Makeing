@@ -1,26 +1,61 @@
---- Table of Contents?
-
-
-
----Theme (ideas)
+  ---- THEME (ideas)
   Dark Academia: What the fuck is dark academia
   Steampunk: Steampunk can take a few different directions, so how are we going to do steampunk.
 
 
 
----Pov: Probably First-Person
----Gameplay: Movement-based, Action-Rpg(?),
+
+
+  ---- THE WORLD
+
+---Character Names
+
+---Daytime
+  Right now we're thinking you have to pay off a debt to the hospital, which will get you introduced to the daytime game-mechanics.
+  As a vampire in this world you thankfully don't die in the sun however you don't have any powers. as such in the day you don't have access to magic, or regular combat options(?).
+in the day you would have to travel via walking (maybe a little parkour) or vehicles. thankfully other creatures of the night won't be out to get you, but that might not mean you are completely safe
+
+  ----   MENUS   ----
+
+--- Player Menus
+
+--- UI (Charachter Information)
+
+--- Misc.
+
+--- Missions
 
 
 
 
----World Building
-  world name:Ka
----Character Types(?):
----Character Names:
+
+ ----   Visuals   ----
+
+--- Graphics
+
+--- Style
+
+--- Cinematics
 
 
 
+
+
+  ----   GAMEPLAY   ----
+
+---Enemies
+  Types: Ghouls(Simple flesh creatures), Skeletons(skeletons), ???
+  Enemies(detailed description): 
+
+
+--- Controls
+
+--- Skill
+
+---Misc.
+Damage: Blunt, Thrust, Slash, Fire, Magic(?)
+
+  ---- ABILLITIES
 
 ---Movement 
   Walking: Base movement, and directional control
@@ -32,15 +67,9 @@
     Metal: ???
     Flesh: Drag you towards it
 
-
-
-
 ---Magic
   Gravity: Grapple, Lift enemies in the air stopping movement, Push area (only works on enemies?), 
   Blood-Magic: Take Damage for atk. boost?, 
-  
-
-
 
 ---Weapons
   Spear: deals extra damage based on forward momentum, with thrusting attacks.
@@ -48,29 +77,3 @@
   Mace(?): Deals Extra damage based on Downward speed, with Blunt attacks.
   ???
 
-
-
-
----Enemies
-  Types: Ghouls(Simple flesh creatures), Skeletons(skeletons), ???
-  Enemies(detailed description): 
-
-
-
----Gamplay Other
-  Mission structure
-  
-
-
-
-
----Daytime
-  Right now we're thinking you have to pay off a debt to the hospital, which will get you introduced to the daytime game-mechanics.
-  As a vampire in this world you thankfully don't die in the sun however you don't have any powers. as such in the day you don't have access to magic, or regular combat options(?).
-in the day you would have to travel via walking (maybe a little parkour) or vehicles. thankfully other creatures of the night won't be out to get you, but that might not mean you are completely safe.
-
-
----Misc.
-Damage: Blunt, Thrust, Slash, Fire, Magic(?)
-
-  

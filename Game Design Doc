@@ -3,14 +3,7 @@
   Steampunk: Steampunk can take a few different directions, so how are we going to do steampunk.
 
 
-
-
-
-  ---- THE WORLD
-
---- Character Names
-
---- Vampires
+ ----   Vampires ?   ----
 
  -Night and Day
 During the night,  Vampires Act as vampires, but we have the idea that they don't die in the sun, just be incredibly weak.
@@ -21,15 +14,21 @@ Because of the game we're making i think the standard increased strength and dur
 
 --- Other Undead
 
---- Technology
 
---- Magic
+
+----   Cults ?   ----
+
+
+
+  ---- THE WORLD   ----
+
+--- Character Names
+
+--- Technology
 
 --- Society
 
 --- Other
-
----Daytime
  
 
   ----   MENUS   ----
@@ -95,9 +94,8 @@ Damage: Blunt, Thrust, Slash, Fire, Magic(?)
     Metal: ???
     Flesh: Drag you towards it
 
----Magic
-  Gravity: Grapple, Lift enemies in the air stopping movement, Push area (only works on enemies?), 
-  Blood-Magic: Take Damage for atk. boost?, 
+---Other
+ Grapple: Grapples
 
 ---Weapons
   Spear: deals extra damage based on forward momentum, with thrusting attacks.
